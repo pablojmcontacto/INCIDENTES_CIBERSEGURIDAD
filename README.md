@@ -7,4 +7,4 @@ Material educativo y prácticas en relación a incidentes de ciberseguridad.
 - [PHISHING](https://github.com/pablojmcontacto/PHISHING#phishing)
   
 ## PRÁCTICAS 
-- [EJEMPLO DE SEGURIDAD FÍSICA DE UNA EMPRESA]()
+- [EJEMPLO DE SEGURIDAD FÍSICA DE UNA EMPRESA](https://github.com/pablojmcontacto/practicaseguridadfisica#ejemplo-de-seguridad-f%C3%ADsica-de-una-empresa)
